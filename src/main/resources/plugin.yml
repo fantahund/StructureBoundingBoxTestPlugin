@@ -1,0 +1,4 @@
+name: StructureBoundingBoxTestPlugin
+version: '${project.version}'
+main: de.fanta.structureboundingboxtestplugin.StructureBoundingBoxTestPlugin
+api-version: '1.21'
